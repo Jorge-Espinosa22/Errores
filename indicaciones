@@ -1,0 +1,24 @@
+/* Todos los elementos de la página 
+Tamaño de fuente: 16px
+Familia de fuentes:Arial, Helvetica, sans-serif;
+
+Todos los párrafos de la página 
+color: #555;
+
+Todos los párrafos contenidos en #primero  de id
+color: #369;
+
+Todos los enlaces de la página etiqueta 
+color: #C30;
+
+Los elementos <em> contenidos en #segundo  de id
+color: #0000BB;
+background-color: #FFFFCC;
+
+Todos los elementos <em> con la clase "especial" en toda la página  clases
+color: #FFFF00;
+background: #000000;
+
+Todos los elementos <span> contenidos en la clase "normal"  calses
+font-weight: bold;
+*/ 
